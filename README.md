@@ -38,7 +38,6 @@ A graduate group project from STSCI 5954 that analyzes data from 777 U.S. colleg
 - **Tech Used:** `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `Jupyter`
 
 ## Internship & Research Experience
-## Experience
 
 ### Gravity Investments — *Machine Learning Engineer (Part-time)*  
 _Ithaca, NY · Jan 2025 – Present_
