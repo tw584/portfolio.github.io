@@ -2,8 +2,10 @@
 
 I'm a Master's student in Statistics and Data Science at Cornell University with a passion for building data-driven systems that are as impactful as they are intelligent. I thrive at the intersection of analytical rigor and real-world application, and I’m currently seeking full-time data scientist, data analyst, data engineer opportunities where I can turn data into decisions that matter.
 
-<img src="asset/IMG_5180.JPG" alt="profile picture"
+<img src="asset/IMG_5180.JPG"
+     alt="profile picture"
      style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; float: left; margin-right: 15px;" />
+
 
 
 ## Education
