@@ -1,6 +1,6 @@
-
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
-  <img src="asset/IMG_5180.JPG" alt="profile picture"
+  <img src="asset/img/profile_pic.JPG"
+       alt="profile picture"
        style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" />
   <div>
     <h1 style="margin: 0;">Tiancan Wang</h1>
