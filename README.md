@@ -1,10 +1,16 @@
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
+  <img src="asset/IMG_5180.JPG" alt="profile picture"
+       style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" />
+  <div>
+    <h1 style="margin: 0;">Tiancan Wang</h1>
+    <p style="margin: 0;"><a href="https://github.com/tw584/portfolio.github.io">tw584/portfolio.github.io</a></p>
+  </div>
+</div>
+
 ## About Me
 
 I'm a Master's student in Statistics and Data Science at Cornell University with a passion for building data-driven systems that are as impactful as they are intelligent. I thrive at the intersection of analytical rigor and real-world application, and I’m currently seeking full-time data scientist, data analyst, data engineer opportunities where I can turn data into decisions that matter.
-
-![profile pic]asset/img/profile%20pic.JPG
-
-
 
 ## Education
 - MPS in Statistics and Data Science | Cornell University
