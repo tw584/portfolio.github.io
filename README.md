@@ -1,14 +1,4 @@
-<div style="display: flex; align-items: flex-start; gap: 40px;">
-
-  <!-- Left Column -->
-  <div style="flex: 0 0 220px; text-align: center;">
-    <img src="asset/img/profile_pic.JPG" alt="Profile picture"
-         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;" />
-    <h2 style="margin: 10px 0 5px 0;">Tiancan Wang</h2>
-    <p style="font-size: 14px; color: gray;">Data Science Portfolio</p>
-    <p><a href="https://github.com/tw584/portfolio.github.io">View on GitHub</a></p>
-  </div>
-
+![Profile picture](asset/img/profile_pic.JPG)
 
 ## About Me
 
