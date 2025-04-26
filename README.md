@@ -9,8 +9,6 @@
     <p><a href="https://github.com/tw584/portfolio.github.io">View on GitHub</a></p>
   </div>
 
-  <!-- Right Column -->
-  <div>
 
 ## About Me
 
@@ -93,6 +91,3 @@ _Boston, MA · Nov 2022 – Sep 2024_
 - [LinkedIn](www.linkedin.com/in/tiancan-wang)
 - Email: tw584@cornell.edu
 
-  </div>
-
-</div>
