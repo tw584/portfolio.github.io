@@ -1,14 +1,14 @@
 ## About Me
 
-I'm a Master's student in Statistics and Data Science at Cornell University with a passion for building data-driven systems that are as impactful as they are intelligent. With experience spanning machine learning, time series forecasting, NLP, and interactive dashboards, I’ve delivered solutions across finance, public health, and education — including scalable model pipelines on AWS, emotion classification with DistilBERT, and institutional performance prediction using Random Forests. I thrive at the intersection of analytical rigor and real-world application, and I’m currently seeking full-time opportunities where I can turn data into decisions that matter.
+I'm a Master's student in Statistics and Data Science at Cornell University with a passion for building data-driven systems that are as impactful as they are intelligent. I thrive at the intersection of analytical rigor and real-world application, and I’m currently seeking full-time data scientist, data analyst, data engineer opportunities where I can turn data into decisions that matter.
 
 ## Education
 - MPS in Statistics and Data Science | Cornell University
 - Bachelor of Arts in Math & Applied Psychology | Boston College
 
-##Technical Skills
-- Programming/Big Data: Python (Pandas, Matplotlib, Pytorch), Hadoop, Hive, Java, SQL, R, Excel, SAS, SPSS, Tableau, AWS
-- Machine Learning: Classification, A/B Testing, NLP, Language Modeling, Generative Models, CNN, KNN, Regression
+## Technical Skills
+- **Programming/Big Data:** Python (Pandas, Matplotlib, Pytorch), Hadoop, Hive, Java, SQL, R, Excel, SAS, SPSS, Tableau, AWS
+- **Machine Learning:** Classification, A/B Testing, NLP, Language Modeling, Generative Models, CNN, KNN, Regression
 
 ## Featured Projects
 
