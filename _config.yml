@@ -1,5 +1,5 @@
 title: Tiancan Wang
-logo: asset/img/pp_circle.png
+logo: /asset/img/pp_circle.png
 theme: jekyll-theme-minimal 
 include:
   - asset
