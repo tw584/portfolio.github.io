@@ -30,8 +30,7 @@ An NLP project for classifying emotional tone in text using machine learning. De
 
 ---
 
-### [College Performance Classification]
-(https://github.com/tw584/College-Data-Analysis-ML-Project)
+### [College Performance Classification](https://github.com/tw584/College-Data-Analysis-ML-Project)
 A graduate group project from STSCI 5954 that analyzes data from 777 U.S. colleges and universities. Using exploratory data analysis and machine learning models (Logistic Regression and Random Forest), the project classifies institutions as elite or non-elite based on performance metrics like application rates, graduation rates, and alumni donations.
 
 - **Best Model:** Random Forest (highest accuracy and ROC AUC)
